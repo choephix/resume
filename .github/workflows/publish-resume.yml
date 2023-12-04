@@ -1,0 +1,29 @@
+name: Publish Resume to GitHub Pages
+
+on:
+  push:
+    branches:
+      - main  # or your default branch
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+
+    - name: Set up Node.js
+      uses: actions/setup-node@v1
+      with:
+        node-version: '14'  # You can specify your Node.js version here
+
+    - name: Install markdown-styles
+      run: npm install -g markdown-styles
+
+    - name: Generate HTML from Markdown
+      run: generate-md --layout github --input ./README.md --output ./dist
+
+    - name: Deploy to GitHub Pages
+      uses: peaceiris/actions-gh-pages@v3
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        publish_dir: ./dist
