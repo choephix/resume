@@ -39,7 +39,7 @@ jobs:
     - name: Build and Generate Static Files
       run: |
         npm install -g markdown-styles
-        generate-md --layout github --input ./pages/*.md --output ./dist
+        generate-md --layout ./layout --input ./pages/*.md --output ./dist
         cp -r public/* dist
         cp -r *.webp dist
 
