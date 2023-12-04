@@ -22,15 +22,8 @@ jobs:
     - name: Generate HTML from Markdown
       run: generate-md --layout github --input ./README.md --output ./dist
 
-    # - name: Deploy to GitHub Pages
-    #   uses: peaceiris/actions-gh-pages@v3
-    #   with:
-    #     github_token: ${{ secrets.GITHUB_TOKEN }}
-    #     publish_dir: ./dist
-
     - name: Deploy to GitHub Pages
-      id: deployment
-      uses: actions/deploy-pages@v2
+      uses: peaceiris/actions-gh-pages@v3
       with:
-        token: ${{ secrets.GITHUB_TOKEN }}
-        path: ./dist
+        github_token: ${{ secrets.PAT }}
+        publish_dir: ./dist
