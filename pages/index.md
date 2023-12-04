@@ -1,5 +1,6 @@
 title: Stefan Ginev's Résumé
 tags: ["software developer", "full stack developer", "web developer", "programmer", "JavaScript", "React", "Node.js", "HTML5", "TypeScript", "WebGL", "PixiJS", "Three.js", "Firebase", "game development", "3D web development", "interactive applications", "digital card games", "bioengineering applications", "Stefan Ginev", "SGinev", "Stefan Ginev developer", "developer in Bulgaria", "remote software developer", "global web development", "lead developer", "frontend engineer", "full stack", "Drimgar digital card game", "web games development", "tech resume", "developer CV", "professional programmer", "coding portfolio"]
+
 ---
 
 ![Alt text](./photo-ico.webp 'Optional title')
