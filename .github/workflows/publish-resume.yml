@@ -1,13 +1,14 @@
 name: Publish Resume to GitHub Pages
 
 on:
-  permissions:
-    contents: read
-    id-token: write
   push:
     branches:
       - main  # or your default branch
 
+permissions:
+  contents: read
+  id-token: write
+  
 jobs:
   build-and-deploy:
     runs-on: ubuntu-latest
