@@ -25,7 +25,7 @@ Stefan is an accomplished and flexible developer who can easily switch between v
 
 ### Founder and Software Developer at Revoltage LTD (2022 - Present)
 
-- [Create AI Powered Digital Card Game Prototype - Drimgar](https://youtu.be/watch?v=eIf77Q44izw)
+- [Prototype Development for AI Powered Digital Card Game - Drimgar](https://youtu.be/watch?v=eIf77Q44izw)
   - Built the gameplay logic in Typescript, as a stand-alone library
   - Designed and developed the game client for the browser, using Typescript, Babylon.js (3D WebGL rendering engine), custom GLSL shaders for effects, custom MSDF implementation for Bitmap texts, and custom spritesheet animation logic.
   - Utilized various generative AI tools to produce the GUI, game assets, card illustrations and promotional materials. (Stable Diffusion, ControlNet, DreamStudio.ai, DALLE-3, MidJourney)
@@ -40,7 +40,7 @@ Stefan is an accomplished and flexible developer who can easily switch between v
   - Implemented Airtable for efficient data management, facilitating the rapid iteration of card and opponent configurations, as well as tracking the project's progress and ongoing development tasks.
   - Employed Airtable's API for seamless data retrieval client-side.
 
-- Front-end Game Developer at OSO INTERACTIVE LLC (2021 - 2022)
+- Front-end Game Developer (client work for OSO INTERACTIVE LLC)
   - Planned and developed a [blockchain game for the client](https://www.youtube.com/watch?v=Bi5qKXuPOFk). Utilized EOSIO and AtomicHub's web APIs to communicate with contracts, sign transactions for in-game actions, and verify NFT ownership.
   - Structured and maintained the centralized part of the game's back end using mainly Firebase Firestore. Items requiring frequent updates were retrieved via Airtable's public API.
   - Used Airtable to administrate items we knew would need frequent updates easily, i.e., system messages and special event banners. Game admins can choose how messages are shown via multi-selection, upload images, and manage status via Kanban view.
@@ -136,8 +136,10 @@ Stefan is an accomplished and flexible developer who can easily switch between v
 ### Software Developer at Bigmage Studio (2012 - 2018)
 
 - Delivered several apps and games for browsers and mobile in collaboration with the team. Handled visuals, gameplay, and front-end to back-end communication protocols and strategies.
-- Devised a complex mobile billiards app for a foreign market. The project involved real-time physics simulation, low-level shader programming, multiplayer logic in C#, in-app purchases, player progression, and live tournaments.
-- Developed the gameplay section of a [casual game](https://www.youtube.com/watch?v=4CYq5Y6ryW4&t=11s) for both Android and iOS. Aside from trigonometry, mock-physics, and ads integration, specific work was aimed at adding polish and spectacle to what resulted in one of the firm's most visually engaging projects.
+- Devised a complex mobile billiards app for a foreign market (ala 8 Ball Pool). The project involved real-time physics simulation, low-level shader programming, multiplayer logic in C#, in-app purchases, player progression, and live tournaments.
+- Developed the gameplay section of a [casual mobile game](https://www.youtube.com/watch?v=4CYq5Y6ryW4&t=11s) for both Android and iOS. Aside from trigonometry, mock-physics, and ads integration, specific work was aimed at adding polish and spectacle to what resulted in one of the firm's most visually engaging projects.
+- Built the gameplay of a [casual mobile game](https://youtu.be/C5a3JHTIS0U?t=8) for both Android and iOS. The game uses Box2D, a 2D physics engine. The gameplay resembles Angry Birds, with the twist that you can build your own levels and challenge your friends to beat them in asynchronous multiplayer.
+- Built the Flash client and Java backend for a [casual 3D multiplayer battler game](https://youtu.be/cIsF2QyMh7E?t=28) for the browser. The game resembles a top-down Super Smash Bros.
 - Technologies: _Java, ActionScript 3, Adobe AIR, Android, Ionic, C#, APIs, Multiplayer, 3D, Flash ActionScript, Node.js, Game Development, Game Tools Development, JavaScript, Git, Web, 2D Games, Slack, Postman, jQuery, MySQL, CSS, Full-stack, Architecture, Dashboards, Animation, UI Animation, Online Games, GUI Animation, UI Design, Front-end, Front-end Development, Back-end, Games, Software Architecture, 3D Animation_
 
 ## Personal Projects
