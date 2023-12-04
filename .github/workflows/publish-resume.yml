@@ -16,14 +16,32 @@ jobs:
       with:
         node-version: '18'  # You can specify your Node.js version here
 
-    - name: Install markdown-styles
-      run: npm install -g markdown-styles
+    # - name: Install markdown-styles
+    #   run: npm install -g markdown-styles
 
-    - name: Generate HTML from Markdown
-      run: generate-md --layout github --input ./README.md --output ./dist
+    # - name: Generate HTML from Markdown
+    #   run: generate-md --layout github --input ./README.md --output ./dist
+
+    # - name: Copy static assets
+    #   run: cp -r *.webp dist
+
+    # - name: Deploy to GitHub Pages
+    #   uses: peaceiris/actions-gh-pages@v3
+    #   with:
+    #     github_token: ${{ secrets.GITHUB_TOKEN }}
+    #     publish_dir: ./dist
+
+    - name: Build and Generate Static Files
+      run: |
+        npm install -g markdown-styles
+        generate-md --layout github --input ./README.md --output ./dist
+        cp -r *.webp dist
+
+    - name: Upload Pages Artifact
+      uses: actions/upload-pages-artifact@v1
+      with:
+        path: ./dist
 
     - name: Deploy to GitHub Pages
-      uses: peaceiris/actions-gh-pages@v3
-      with:
-        github_token: ${{ secrets.GITHUB_TOKEN }}
-        publish_dir: ./dist
+      uses: actions/deploy-pages@v2
+      if: github.ref == 'refs/heads/main'
