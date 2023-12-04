@@ -24,6 +24,21 @@ Stefan is an accomplished and flexible developer who can easily switch between v
 
 ### Founder and Software Developer at Revoltage LTD (2022 - Present)
 
+- [Create AI Powered Digital Card Game Prototype - Drimgar](https://youtu.be/watch?v=eIf77Q44izw)
+  - Built the gameplay logic in Typescript, as a stand-alone library
+  - Designed and developed the game client for the browser, using Typescript, Babylon.js (3D WebGL rendering engine), custom GLSL shaders for effects, custom MSDF implementation for Bitmap texts, and custom spritesheet animation logic.
+  - Utilized various generative AI tools to produce the GUI, game assets, card illustrations and promotional materials. (Stable Diffusion, ControlNet, DreamStudio.ai, DALLE-3, MidJourney)
+  - Automate development via Continous Integration (Github Actions)
+  - Host the client on Firebase Hosting, including preview channels. Firestore used as a general database.
+  - Crafted a quick-play style multiplayer backend server in Node.js + Colyseum.js
+  - Developed a complex web tool for creating, annotating and tracking the development progress of cards in the game, rendered with React and storing the YAML data in a repository using Github's API
+  - Technologies: _JavaScript, TypeScript, React, HTML5, CSS3, Webpack, Node.js, Firebase, Firestore, AI, Machine Learning, Continuous Integration, Continuous Deployment, Github API, Git, Adobe Photoshop, Stable Diffusion, ControlNet, GPT4, DALLE-3, MidJourney_
+
+- Prototype Development for a Roguelike Deck Builder Game
+  - Engineered a turn-based card game prototype, ala 'Slay The Spire', utilizing PixiJs for dynamic 2D WebGL rendering.
+  - Implemented Airtable for efficient data management, facilitating the rapid iteration of card and opponent configurations, as well as tracking the project's progress and ongoing development tasks.
+  - Employed Airtable's API for seamless data retrieval client-side.
+
 - Front-end Game Developer at OSO INTERACTIVE LLC (2021 - 2022)
   - Planned and developed a [blockchain game for the client](https://www.youtube.com/watch?v=Bi5qKXuPOFk). Utilized EOSIO and AtomicHub's web APIs to communicate with contracts, sign transactions for in-game actions, and verify NFT ownership.
   - Structured and maintained the centralized part of the game's back end using mainly Firebase Firestore. Items requiring frequent updates were retrieved via Airtable's public API.
@@ -133,11 +148,6 @@ A PWA (progressive web application) that aims to present a novel experience, com
 ### Collectible Card Game in React
 
 On the client-side, this is a single-page web application written in TypeScript with React for rendering and GSAP combined with regular CSS handling most of the animation. The server consists of a simple Express.js app, utilizing Google's Firebase SDK for authentication and data persistence (Google's Firestore) and the beautiful and open-source Colyseus framework for room management and real-time communication. For administration, I created a card editor as a separate React app that uses simple forms, the ACE editor plugin for writing the card effects with syntax highlighting, and custom autocomplete. I opted to use the GitHub API for saving/loading data with added makeshift change history.
-
-### Prototype for a Web Card Game
-
-A turn-based card game rendered via PixiJs, a WebGL 2D framework, leveraging Airtable as a solution for easy management by storing the data for cards and opponents and tracking ongoing research and work progress.
-The app then retrieves necessary data via Airtable's API.
 
 ### Prototype Flutter App for Wear OS
 
