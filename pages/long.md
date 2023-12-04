@@ -157,3 +157,37 @@ On the client-side, this is a single-page web application written in TypeScript 
 A small prototype application utilizing built-in speech recognition and text-to-speech to send chat prompts to OpenAI and read out the response from their GPT4 model directly from your watch.
 
 The app was built using Flutter, with minimal UI and animations.
+
+## Skills
+
+### Languages
+
+_JavaScript, Flash ActionScript, HTML5, TypeScript, ActionScript 3, CSS, C#, ECMAScript (ES6), HTML, Python 3, Java, SCSS, Python_
+
+### Frameworks
+
+_PixiJS, Express.js, Unity, Unity3D, Tailwind CSS, Angular, Bootstrap, Jasmine, Phaser.io, .NET, Ionic, Redux, Electron, Flutter, Next.js_
+
+### Libraries/APIs
+
+_Node.js, React, Three.js, WebGL, GSAP, Firebase Web SDK, Babylon.js, jQuery, Bitbucket API, GitHub API, REST APIs, Socket.IO, Web Audio, D3.js, Web3.js, Recharts, Victory_
+
+### Tools
+
+_Flash, Adobe Photoshop, Webpack, Git, Visual Studio, Postman, Webpack 4, Firebase Authentication, NGINX, UglifyJS, CircleCI, Travis CI, Slack, Gulp, Adobe AIR, Lerna, Sentry, Figma, RabbitMQ, Jira, PDB, Construct 2_
+
+### Platforms
+
+_Visual Studio Code (VS Code), Docker, Web, Raspberry Pi, DigitalOcean, GreenSock Animation Platform (GSAP), Firebase, Windows, Ubuntu, Android, Blockchain, Amazon Web Services (AWS), Google Cloud Platform (GCP)_
+
+### Other
+
+_2D Games, Firebase Hosting, Dashboards, Architecture, Front-end, Front-end Development, Games, Software Architecture, 3D Animation, Full-stack, MERN Stack, Multiplayer, Game Design, Game Development, Game Tools Development, 3D, APIs, 3D Games, Animation, UI Animation, Card Games, Online Games, GUI Animation, Low Code, Back-end, Technical Leadership, Image Generation, 3D Character Animation, ChatGPT, Web Scraping, Serverless, Construct, Howler.js, Monorepos, Styled-components, Scraping, Data Scraping, WebSockets, CAPTCHA, Smart Homes, Internet of Things (IoT), Webhooks, Web Development, Casino Games, Slots, Non-fungible Tokens (NFT), EOSIO, Airtable, Client-side JavaScript Frameworks, Speech to Text, Data Visualization, Ethers.js, Gatsby, Web 3.0, VictoryChart, 3Dmol.js, NGL Viewer, Mol-Star, OpenAI GPT-3 API, Wear OS, Android Wear, Speech Recognition, Text to Speech (TTS), Construct 3, OpenAI GPT-4 API, 3D Art_
+
+### Paradigms
+
+_Low-code Development, Continuous Deployment, UI Design_
+
+### Storage
+
+_Firebase Realtime Database, NoSQL, MongoDB, Elasticsearch, PostgreSQL, MySQL, Google Cloud_
