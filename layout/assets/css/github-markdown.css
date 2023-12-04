@@ -726,3 +726,9 @@ body::before {
     padding: 30px;
   }
 }
+
+#skills ~ p {
+  font-size: .7em;
+  opacity: .9;
+  font-style: italic;
+}
