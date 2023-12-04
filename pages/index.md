@@ -11,9 +11,11 @@ Stefan is an accomplished and flexible developer who can easily switch between v
 
 - **Location:** Varna, Bulgaria
 
-- **LinkedIn:** https://github.com/choephix
+- **GitHub:** https://github.com/choephix
 
 - **LinkedIn:** https://linkedin.com/in/choephix
+
+- **Email:** [stefan @ revoltage.io](mailto://stefan@revoltage.io)
 
 ## Work Experience
 
