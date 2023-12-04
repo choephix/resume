@@ -22,10 +22,7 @@ jobs:
         node-version: '18'  # You can specify your Node.js version here
 
     - name: Build and Generate Static Files
-      run: |
-        npm install -g markdown-styles
-        generate-md --layout ./layout --input ./pages/*.md --output ./dist
-        cp -r pages/*.webp dist
+      run: npm install && npm run build
 
     - name: Upload Pages Artifact
       uses: actions/upload-pages-artifact@v1
