@@ -41,7 +41,7 @@ jobs:
         npm install -g markdown-styles
         generate-md --layout ./layout --input ./pages/*.md --output ./dist
         cp -r public/* dist
-        cp -r *.webp dist
+        cp -r pages/*.webp dist
 
     - name: Upload Pages Artifact
       uses: actions/upload-pages-artifact@v1
