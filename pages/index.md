@@ -27,7 +27,7 @@ Stefan is an accomplished and flexible developer who can easily switch between v
   * Automated the production and staging release workflow via GitHub Actions.
   * Used PixiJS as a rendering engine for the world and UI. Wrote custom shaders for the in-game map and visual effects for UI interactions. Ensured the rendering of large animated terrain with low-performance costs.
   * Wrote low-level utilities for the common animation, layout needs, and data services.
-  * Technologies: PixiJS, JavaScript, TypeScript, Blockchain, EOSIO, Non-fungible Tokens (NFT), Firebase, Firebase Web SDK, GSAP, Airtable, Sentry, Continuous Deployment, Node.js, Game Design, Game Development, Game Tools Development, Git, HTML5, Web, WebGL, Multiplayer, Adobe Photoshop, Webpack, 2D Games, Firebase Authentication, Web Development, Firebase Hosting, Postman, HTML, ECMAScript (ES6), Serverless, CSS, Architecture, Animation, UI Animation, Card Games, Online Games, GUI Animation, GreenSock Animation Platform (GSAP), Webpack 4, D3.js, Data Visualization, Front-end, Ethers.js, Web3.js, Front-end Development, Games, Web 3.0, Software Architecture, Technical Leadership, NoSQL
+  * Technologies: *PixiJS, JavaScript, TypeScript, Blockchain, EOSIO, Non-fungible Tokens (NFT), Firebase, Firebase Web SDK, GSAP, Airtable, Sentry, Continuous Deployment, Node.js, Game Design, Game Development, Game Tools Development, Git, HTML5, Web, WebGL, Multiplayer, Adobe Photoshop, Webpack, 2D Games, Firebase Authentication, Web Development, Firebase Hosting, Postman, HTML, ECMAScript (ES6), Serverless, CSS, Architecture, Animation, UI Animation, Card Games, Online Games, GUI Animation, GreenSock Animation Platform (GSAP), Webpack 4, D3.js, Data Visualization, Front-end, Ethers.js, Web3.js, Front-end Development, Games, Web 3.0, Software Architecture, Technical Leadership, NoSQL*
 
 ### Freelance Full Stack & Game Developer at Toptal (2009 - Present)
 
@@ -50,7 +50,7 @@ Stefan is an accomplished and flexible developer who can easily switch between v
   * Tracked and fixed bugs using Sentry and Jira as reporting tools.
   Used the MUI framework to develop the app's admin dashboard and lists of online races and tournaments according to Figma designs.
   * Wrote on interpolation logic to fill in missing data on the back-end side (Node.js).
-  * Technologies: React, Three.js, TypeScript, Gatsby, Amazon Web Services (AWS), Jira, Sentry, CSS, WebGL, 3D Animation
+  * Technologies: *React, Three.js, TypeScript, Gatsby, Amazon Web Services (AWS), Jira, Sentry, CSS, WebGL, 3D Animation*
 
 * [VEN Games](https://ven.games)
   * Laid the foundation for the VEN Games project, a suite of web-based games akin to platforms like skribbl.io and traditional board games..
@@ -74,7 +74,7 @@ Stefan is an accomplished and flexible developer who can easily switch between v
 * Built a game content manager rendered with React. It features code editors, GitHub integration, and Google Firebase authentication.
 * Developed a wedding planning app with an editable relation tree for guests and a detailed seating arrangement map.
 * Created a kiosk interface in HTML5 with content manager and weather API integration.
-* Technologies: Unity, Docker, Three.js, Express.js, MongoDB, Node.js, Angular, React, TypeScript, C#, REST APIs, WebSockets, Socket.IO, Firebase, CAPTCHA, GitHub API, Flash, ActionScript 3, Firebase Hosting, Firebase Authentication, Firebase Realtime Database, 3D, 2D Games, 3D Games, Firebase Web SDK, Unity3D, Web Audio, Smart Homes, Internet of Things (IoT), Flash ActionScript, Game Design, Game Development, Game Tools Development, JavaScript, Git, HTML5, Web, WebGL, Multiplayer, Adobe Photoshop, Webpack, PixiJS, GSAP, Web Development, Webhooks, DigitalOcean, Travis CI, Bitbucket API, NGINX, CircleCI, Phaser.io, UglifyJS, SCSS, HTML, ECMAScript (ES6), MERN Stack, jQuery, Jasmine, MySQL, Serverless, Raspberry Pi, CSS, Full-stack, Architecture, Dashboards, Animation, UI Animation, Card Games, Online Games, GUI Animation, GreenSock Animation Platform (GSAP), UI Design, Front-end, Low-code Development, Low Code, Redux, Front-end Development, Back-end, Games, Visual Studio, Web 3.0, Google Cloud Platform (GCP), OpenAI GPT-3 API, Software Architecture, Babylon.js, OpenAI GPT-4 API, Image Generation, Next.js, Tailwind CSS, 3D Character Animation, 3D Animation, 3D Art, NoSQL, ChatGPT
+* Technologies: *Unity, Docker, Three.js, Express.js, MongoDB, Node.js, Angular, React, TypeScript, C#, REST APIs, WebSockets, Socket.IO, Firebase, CAPTCHA, GitHub API, Flash, ActionScript 3, Firebase Hosting, Firebase Authentication, Firebase Realtime Database, 3D, 2D Games, 3D Games, Firebase Web SDK, Unity3D, Web Audio, Smart Homes, Internet of Things (IoT), Flash ActionScript, Game Design, Game Development, Game Tools Development, JavaScript, Git, HTML5, Web, WebGL, Multiplayer, Adobe Photoshop, Webpack, PixiJS, GSAP, Web Development, Webhooks, DigitalOcean, Travis CI, Bitbucket API, NGINX, CircleCI, Phaser.io, UglifyJS, SCSS, HTML, ECMAScript (ES6), MERN Stack, jQuery, Jasmine, MySQL, Serverless, Raspberry Pi, CSS, Full-stack, Architecture, Dashboards, Animation, UI Animation, Card Games, Online Games, GUI Animation, GreenSock Animation Platform (GSAP), UI Design, Front-end, Low-code Development, Low Code, Redux, Front-end Development, Back-end, Games, Visual Studio, Web 3.0, Google Cloud Platform (GCP), OpenAI GPT-3 API, Software Architecture, Babylon.js, OpenAI GPT-4 API, Image Generation, Next.js, Tailwind CSS, 3D Character Animation, 3D Animation, 3D Art, NoSQL, ChatGPT*
 
 ### Software Developer at 7Mojos / Casualino LLC (2020 - 2021)
 
@@ -103,14 +103,14 @@ Stefan is an accomplished and flexible developer who can easily switch between v
 * Constructed an obfuscation and encryption layer for existing JavaScript game communication with the servers and the accompanying decryption logic in PHP.
 * Wrote single-use bots for transforming or migrating large amounts of existing data during the occasional shifts in the project structure.
 * Developed a highly configurable mock-server tool for easy testing of bot and front-end code by faking situations such as back-end errors, long response times, and bad data.
-* Technologies: Construct, JavaScript, Google Cloud, Node.js, Python, Git, Firebase, Webhooks, Data Scraping, Scraping, Slack, UglifyJS, Postman, HTML, ECMAScript (ES6), Elasticsearch, PostgreSQL, Python 3, Web Scraping, CSS, Dashboards, Online Games, 2D Games, Firebase Web SDK, Data Visualization, UI Design, Front-end, RabbitMQ, Front-end Development, Back-end, Games, Construct 2, Construct 3, Google Cloud Platform (GCP), Software Architecture, NoSQL
+* Technologies: *Construct, JavaScript, Google Cloud, Node.js, Python, Git, Firebase, Webhooks, Data Scraping, Scraping, Slack, UglifyJS, Postman, HTML, ECMAScript (ES6), Elasticsearch, PostgreSQL, Python 3, Web Scraping, CSS, Dashboards, Online Games, 2D Games, Firebase Web SDK, Data Visualization, UI Design, Front-end, RabbitMQ, Front-end Development, Back-end, Games, Construct 2, Construct 3, Google Cloud Platform (GCP), Software Architecture, NoSQL*
 
 ### Software Developer at Bigmage Studio (2012 - 2018)
 
 * Delivered several apps and games for browsers and mobile in collaboration with the team. Handled visuals, gameplay, and front-end to back-end communication protocols and strategies.
 * Devised a complex mobile billiards app for a foreign market. The project involved real-time physics simulation, low-level shader programming, multiplayer logic in C#, in-app purchases, player progression, and live tournaments.
 * Developed the gameplay section of a [casual game](https://www.youtube.com/watch?v=4CYq5Y6ryW4&t=11s) for both Android and iOS. Aside from trigonometry, mock-physics, and ads integration, specific work was aimed at adding polish and spectacle to what resulted in one of the firm's most visually engaging projects.
-* Technologies: Java, ActionScript 3, Adobe AIR, Android, Ionic, C#, APIs, Multiplayer, 3D, Flash ActionScript, Node.js, Game Development, Game Tools Development, JavaScript, Git, Web, 2D Games, Slack, Postman, jQuery, MySQL, CSS, Full-stack, Architecture, Dashboards, Animation, UI Animation, Online Games, GUI Animation, UI Design, Front-end, Front-end Development, Back-end, Games, Software Architecture, 3D Animation
+* Technologies: *Java, ActionScript 3, Adobe AIR, Android, Ionic, C#, APIs, Multiplayer, 3D, Flash ActionScript, Node.js, Game Development, Game Tools Development, JavaScript, Git, Web, 2D Games, Slack, Postman, jQuery, MySQL, CSS, Full-stack, Architecture, Dashboards, Animation, UI Animation, Online Games, GUI Animation, UI Design, Front-end, Front-end Development, Back-end, Games, Software Architecture, 3D Animation*
 
 ## Personal Projects
 
@@ -132,25 +132,25 @@ The app was built using Flutter, with minimal UI and animations.
 ## Skills
 
 ### Languages
-JavaScript, Flash ActionScript, HTML5, TypeScript, ActionScript 3, CSS, C#, ECMAScript (ES6), HTML, Python 3, Java, SCSS, Python
+*JavaScript, Flash ActionScript, HTML5, TypeScript, ActionScript 3, CSS, C#, ECMAScript (ES6), HTML, Python 3, Java, SCSS, Python*
 
 ### Frameworks
-PixiJS, Express.js, Unity, Unity3D, Tailwind CSS, Angular, Bootstrap, Jasmine, Phaser.io, .NET, Ionic, Redux, Electron, Flutter, Next.js
+*PixiJS, Express.js, Unity, Unity3D, Tailwind CSS, Angular, Bootstrap, Jasmine, Phaser.io, .NET, Ionic, Redux, Electron, Flutter, Next.js*
 
 ### Libraries/APIs
-Node.js, React, Three.js, WebGL, GSAP, Firebase Web SDK, Babylon.js, jQuery, Bitbucket API, GitHub API, REST APIs, Socket.IO, Web Audio, D3.js, Web3.js, Recharts, Victory
+*Node.js, React, Three.js, WebGL, GSAP, Firebase Web SDK, Babylon.js, jQuery, Bitbucket API, GitHub API, REST APIs, Socket.IO, Web Audio, D3.js, Web3.js, Recharts, Victory*
 
 ### Tools
-Flash, Adobe Photoshop, Webpack, Git, Visual Studio, Postman, Webpack 4, Firebase Authentication, NGINX, UglifyJS, CircleCI, Travis CI, Slack, Gulp, Adobe AIR, Lerna, Sentry, Figma, RabbitMQ, Jira, PDB, Construct 2
+*Flash, Adobe Photoshop, Webpack, Git, Visual Studio, Postman, Webpack 4, Firebase Authentication, NGINX, UglifyJS, CircleCI, Travis CI, Slack, Gulp, Adobe AIR, Lerna, Sentry, Figma, RabbitMQ, Jira, PDB, Construct 2*
 
 ### Platforms
-Visual Studio Code (VS Code), Docker, Web, Raspberry Pi, DigitalOcean, GreenSock Animation Platform (GSAP), Firebase, Windows, Ubuntu, Android, Blockchain, Amazon Web Services (AWS), Google Cloud Platform (GCP)
+*Visual Studio Code (VS Code), Docker, Web, Raspberry Pi, DigitalOcean, GreenSock Animation Platform (GSAP), Firebase, Windows, Ubuntu, Android, Blockchain, Amazon Web Services (AWS), Google Cloud Platform (GCP)*
 
 ### Other
-2D Games, Firebase Hosting, Dashboards, Architecture, Front-end, Front-end Development, Games, Software Architecture, 3D Animation, Full-stack, MERN Stack, Multiplayer, Game Design, Game Development, Game Tools Development, 3D, APIs, 3D Games, Animation, UI Animation, Card Games, Online Games, GUI Animation, Low Code, Back-end, Technical Leadership, Image Generation, 3D Character Animation, ChatGPT, Web Scraping, Serverless, Construct, Howler.js, Monorepos, Styled-components, Scraping, Data Scraping, WebSockets, CAPTCHA, Smart Homes, Internet of Things (IoT), Webhooks, Web Development, Casino Games, Slots, Non-fungible Tokens (NFT), EOSIO, Airtable, Client-side JavaScript Frameworks, Speech to Text, Data Visualization, Ethers.js, Gatsby, Web 3.0, VictoryChart, 3Dmol.js, NGL Viewer, Mol*, OpenAI GPT-3 API, Wear OS, Android Wear, Speech Recognition, Text to Speech (TTS), Construct 3, OpenAI GPT-4 API, 3D Art
+*2D Games, Firebase Hosting, Dashboards, Architecture, Front-end, Front-end Development, Games, Software Architecture, 3D Animation, Full-stack, MERN Stack, Multiplayer, Game Design, Game Development, Game Tools Development, 3D, APIs, 3D Games, Animation, UI Animation, Card Games, Online Games, GUI Animation, Low Code, Back-end, Technical Leadership, Image Generation, 3D Character Animation, ChatGPT, Web Scraping, Serverless, Construct, Howler.js, Monorepos, Styled-components, Scraping, Data Scraping, WebSockets, CAPTCHA, Smart Homes, Internet of Things (IoT), Webhooks, Web Development, Casino Games, Slots, Non-fungible Tokens (NFT), EOSIO, Airtable, Client-side JavaScript Frameworks, Speech to Text, Data Visualization, Ethers.js, Gatsby, Web 3.0, VictoryChart, 3Dmol.js, NGL Viewer, Mol*, OpenAI GPT-3 API, Wear OS, Android Wear, Speech Recognition, Text to Speech (TTS), Construct 3, OpenAI GPT-4 API, 3D Art*
 
 ### Paradigms
-Low-code Development, Continuous Deployment, UI Design
+*Low-code Development, Continuous Deployment, UI Design*
 
 ### Storage
-Firebase Realtime Database, NoSQL, MongoDB, Elasticsearch, PostgreSQL, MySQL, Google Cloud
+*Firebase Realtime Database, NoSQL, MongoDB, Elasticsearch, PostgreSQL, MySQL, Google Cloud*
