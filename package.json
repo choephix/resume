@@ -4,9 +4,17 @@
   "author": "Stefan Ginev",
   "license": "CC0 1.0 Universal",
   "scripts": {
-    "build": "npx generate-md --layout ./layout --input ./pages/*.md --output ./dist \n cp -r pages/*.webp dist"
+    "watch": "nodemon -x \"npm run build\" -w layout -w pages -e md,css,html,ico,webp -V",
+    "serve": "browser-sync start --server 'dist' --files 'dist'",
+    "build": "generate-md --layout ./layout --input ./pages/*.md --output ./dist \n cp -r pages/*.webp dist",
+    "start": "concurrently \"npm run watch\" \"npm run serve\""
   },
   "devDependencies": {
     "markdown-styles": "^3.2.0"
+  },
+  "dependencies": {
+    "browser-sync": "^2.29.3",
+    "concurrently": "^8.2.2",
+    "nodemon": "^3.0.2"
   }
 }
