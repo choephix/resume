@@ -50,7 +50,7 @@ Stefan is an accomplished software developer with 13 years of experience, specia
   - Wrote low-level utilities for the common animation, layout needs, and data services.
   - Technologies: _PixiJS, JavaScript, TypeScript, Blockchain, EOSIO, Non-fungible Tokens (NFT), Firebase, Firebase Web SDK, GSAP, Airtable, Sentry, Continuous Deployment, Node.js, Game Design, Game Development, Game Tools Development, Git, HTML5, Web, WebGL, Multiplayer, Adobe Photoshop, Webpack, 2D Games, Firebase Authentication, Web Development, Firebase Hosting, Postman, HTML, ECMAScript (ES6), Serverless, CSS, Architecture, Animation, UI Animation, Card Games, Online Games, GUI Animation, GreenSock Animation Platform (GSAP), Webpack 4, D3.js, Data Visualization, Front-end, Ethers.js, Web3.js, Front-end Development, Games, Web 3.0, Software Architecture, Technical Leadership, NoSQL_
 
-### Freelance Full Stack & Game Developer at Toptal (2009 - Present)
+### Freelance Full Stack & Game Developer at Toptal (2020 - Present)
 
 - [Front End for 3D Visualization of AI-generated Protein Molecules](https://youtu.be/d2PpIL8Y5-E)
 
