@@ -24,10 +24,23 @@ body::before {
 
 .img-container img {
   transition: transform 0.2s ease-in-out;
+  animation: popIn 0.5s ease-out;
 }
 
 .img-container img:hover {
   transform: scale(1.025);
+}
+
+@keyframes popIn {
+  0% {
+    transform: scale(0.0); /* Start slightly smaller */
+  }
+  70% {
+    transform: scale(0.0); /* Start slightly smaller */
+  }
+  100% {
+    transform: scale(1); /* Scale to the original size */
+  }
 }
 
 .markdown-body {
@@ -38,6 +51,18 @@ body::before {
   font-size: 16px;
   line-height: 1.6;
   word-wrap: break-word;
+  animation: slideIn 0.5s ease-out;
+}
+
+@keyframes slideIn {
+  0% {
+    transform: translateX(-10px);
+    opacity: 0;
+  }
+  100% {
+    transform: translateY(0);
+    opacity: 1;
+  }
 }
 
 .markdown-body a {
