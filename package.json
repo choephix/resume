@@ -1,0 +1,12 @@
+{
+  "name": "stefan-ginev-resume",
+  "version": "1.0.0",
+  "author": "Stefan Ginev",
+  "license": "CC0 1.0 Universal",
+  "scripts": {
+    "build": "npx generate-md --layout ./layout --input ./pages/*.md --output ./dist \n cp -r pages/*.webp dist"
+  },
+  "devDependencies": {
+    "markdown-styles": "^3.2.0"
+  }
+}
