@@ -40,7 +40,6 @@ jobs:
       run: |
         npm install -g markdown-styles
         generate-md --layout ./layout --input ./pages/*.md --output ./dist
-        cp -r public/* dist
         cp -r pages/*.webp dist
 
     - name: Upload Pages Artifact
