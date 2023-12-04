@@ -3,17 +3,17 @@ tags: ["software developer", "full stack developer", "web developer", "programme
 
 ---
 
-![Alt text](./photo-ico.webp 'Optional title')
+![Photo of a handsome software developer](./photo-ico.webp 'Optional title')
 
 # Stefan Ginev
 
 ### Software developer
 
-Stefan is an accomplished and flexible developer who can easily switch between vastly different sets of technologies. During his 13-year career, this helped him learn to quickly adapt to new frameworks, tool sets, and languages while delivering professional quality products. He is a stickler for good UX, so expect beauty, performance, and functionality. His work is reliable, robust, and original. Stefan's current stack of choice is MERN.
+Stefan is an accomplished software developer with 13 years of experience, specializing in both game development and full stack development. Known for his adaptability and proficiency in diverse technology stacks, his career showcases effective adaptation to various frameworks, tools, and programming languages. With a keen eye for user experience and a strong focus on delivering high-quality products, Stefan ensures that his projects are not only aesthetically pleasing but also performant and functional. He is committed to creating reliable and innovative solutions.
 
 **The most amazing** project I've built is a multi-player game connecting React clients via WebSocket rooms server-side, with a RESTful API for authentication and data persistence.
 
-- **Location:** Varna, Bulgaria
+- **Location:** [Varna, Bulgaria](https://www.google.com/maps?q=varna+bulgaria&ved=2ahUKEwj-pJ7A2faCAxUoRvEDHc41DhcQ0pQJegQIDBAB)
 
 - **GitHub:** https://github.com/choephix
 
