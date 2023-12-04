@@ -1,6 +1,10 @@
 name: Publish Resume to GitHub Pages
 
 on:
+  permissions:
+    contents: read
+    id-token: write
+    pages: write
   push:
     branches:
       - main  # or your default branch
@@ -45,7 +49,3 @@ jobs:
     - name: Deploy to GitHub Pages
       uses: actions/deploy-pages@v2
       if: github.ref == 'refs/heads/main'
-      permissions:
-        contents: read
-        id-token: write
-        pages: write
