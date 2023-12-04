@@ -1,6 +1,8 @@
 
 # Stefan Ginev
 
+### Software developer
+
 ![Alt text](./photo-ico.webp "Optional title")
 
 Stefan is an accomplished and flexible developer who can easily switch between vastly different sets of technologies. During his 13-year career, this helped him learn to quickly adapt to new frameworks, tool sets, and languages while delivering professional quality products. He is a stickler for good UX, so expect beauty, performance, and functionality. His work is reliable, robust, and original. Stefan's current stack of choice is MERN.
@@ -15,6 +17,54 @@ Stefan is an accomplished and flexible developer who can easily switch between v
 
 ## Work Experience
 
+### Founder and Software Developer at Revoltage LTD (2022 - Present)
+
+* Front-end Game Developer at OSO INTERACTIVE LLC (2021 - 2022)
+  * Planned and developed a [blockchain game for the client](https://www.youtube.com/watch?v=Bi5qKXuPOFk). Utilized EOSIO and AtomicHub's web APIs to communicate with contracts, sign transactions for in-game actions, and verify NFT ownership.
+  * Structured and maintained the centralized part of the game's back end using mainly Firebase Firestore. Items requiring frequent updates were retrieved via Airtable's public API.
+  * Used Airtable to administrate items we knew would need frequent updates easily, i.e., system messages and special event banners. Game admins can choose how messages are shown via multi-selection, upload images, and manage status via Kanban view.
+  * Oversaw a small team of developers working with me for the client. Prioritized and broke down tasks for bi-weekly feature releases.
+  * Automated the production and staging release workflow via GitHub Actions.
+  * Used PixiJS as a rendering engine for the world and UI. Wrote custom shaders for the in-game map and visual effects for UI interactions. Ensured the rendering of large animated terrain with low-performance costs.
+  * Wrote low-level utilities for the common animation, layout needs, and data services.
+  * Technologies: PixiJS, JavaScript, TypeScript, Blockchain, EOSIO, Non-fungible Tokens (NFT), Firebase, Firebase Web SDK, GSAP, Airtable, Sentry, Continuous Deployment, Node.js, Game Design, Game Development, Game Tools Development, Git, HTML5, Web, WebGL, Multiplayer, Adobe Photoshop, Webpack, 2D Games, Firebase Authentication, Web Development, Firebase Hosting, Postman, HTML, ECMAScript (ES6), Serverless, CSS, Architecture, Animation, UI Animation, Card Games, Online Games, GUI Animation, GreenSock Animation Platform (GSAP), Webpack 4, D3.js, Data Visualization, Front-end, Ethers.js, Web3.js, Front-end Development, Games, Web 3.0, Software Architecture, Technical Leadership, NoSQL
+
+### Freelance Full Stack & Game Developer at Toptal (2009 - Present)
+
+* [Front End for 3D Visualization of AI-generated Protein Molecules](https://youtu.be/d2PpIL8Y5-E)
+  * Developed a single-page web application from scratch, using React to visualize protein molecules in 3D.
+  * Engineered a custom API for backend communication, integrating client's proprietary machine-learning technology for model inference.
+  * Led the conceptualization, design, and implementation of the application leveraging modern build tools and frameworks.
+  * Conducted thorough testing and evaluation of multiple libraries for 3D molecular rendering to select the most suitable one for the project's needs.
+  * Maintained a balance between rapid development and the sustainability of a clean, maintainable codebase in a time-sensitive environment.
+  * Acquired deep insights into protein design and expanded knowledge in the field of bioengineering.
+
+* JavaScript developer with 3D experience (WebGL)
+  - Took ownership and assisted in enhancing and troubleshooting the existing 3D viewer application, using pure WebGL for rendering without reliance on third-party engines.
+  - Enhanced camera controls, incorporated animation smoothing, and reworked rendering techniques, significantly elevating the user interaction experience.
+  - Successfully integrated 2D UI elements into the 3D scene.
+  - Independently prototyped a new version of the viewer using Three.js, focusing on heightened performance and stability. Tackled the complex challenge of loading extensive and intricate 3D models, including architectural visualizations and BIM elements like pipes and appliances, through inventive approaches for performant loading and selection mechanisms.
+
+* [Front-end Developer and 3D Expert for Online Gaming at PVCSDC OOD](https://youtube.com/shorts/-a6C3_pD680)
+  * Developed an app using React, Recharts, and Three.js: the app visualizes recorded scenes and telemetry data from online races. It provides options and tools for users to inspect and judge incident circumstances.
+  * Tracked and fixed bugs using Sentry and Jira as reporting tools.
+  Used the MUI framework to develop the app's admin dashboard and lists of online races and tournaments according to Figma designs.
+  * Wrote on interpolation logic to fill in missing data on the back-end side (Node.js).
+  * Technologies: React, Three.js, TypeScript, Gatsby, Amazon Web Services (AWS), Jira, Sentry, CSS, WebGL, 3D Animation
+
+* [VEN Games](https://ven.games)
+  * Laid the foundation for the VEN Games project, a suite of web-based games akin to platforms like skribbl.io and traditional board games..
+  * Co-developed the games and core Software Development Kit (SDK) within a mono repository architecture.
+  * Authored logic and front-end components in TypeScript and React.
+  * Implemented multiplayer rooms and gameplay functionality using Firebase Realtime Database for live interactions.
+
+* Front End for Speech-to-text Dictation App
+  * Built an MVP in React for a web app with AI powered speech-to-text dictation in the browser and text-highlighting for playback progress. The back end combines a REST API and WebSocket connections, using a performant machine learning model.
+
+* Time-tracking web application app
+  * The front-end is powered by React. 
+  * The back-end is served as a REST API service with MongoDB.
+
 ### Freelance Software Developer, Independent (2009 - Present)
 
 * Built a self-hosted project management system for developers, integrated with a third-party code IDE (code server) and image editing app (Photopea).
@@ -24,56 +74,27 @@ Stefan is an accomplished and flexible developer who can easily switch between v
 * Built a game content manager rendered with React. It features code editors, GitHub integration, and Google Firebase authentication.
 * Developed a wedding planning app with an editable relation tree for guests and a detailed seating arrangement map.
 * Created a kiosk interface in HTML5 with content manager and weather API integration.
-* Built an MVP in React for a web app with speech-to-text dictation in the browser and text-highlighting for playback progress. The back end is a combination of a REST API and WebSocket connections.
 * Technologies: Unity, Docker, Three.js, Express.js, MongoDB, Node.js, Angular, React, TypeScript, C#, REST APIs, WebSockets, Socket.IO, Firebase, CAPTCHA, GitHub API, Flash, ActionScript 3, Firebase Hosting, Firebase Authentication, Firebase Realtime Database, 3D, 2D Games, 3D Games, Firebase Web SDK, Unity3D, Web Audio, Smart Homes, Internet of Things (IoT), Flash ActionScript, Game Design, Game Development, Game Tools Development, JavaScript, Git, HTML5, Web, WebGL, Multiplayer, Adobe Photoshop, Webpack, PixiJS, GSAP, Web Development, Webhooks, DigitalOcean, Travis CI, Bitbucket API, NGINX, CircleCI, Phaser.io, UglifyJS, SCSS, HTML, ECMAScript (ES6), MERN Stack, jQuery, Jasmine, MySQL, Serverless, Raspberry Pi, CSS, Full-stack, Architecture, Dashboards, Animation, UI Animation, Card Games, Online Games, GUI Animation, GreenSock Animation Platform (GSAP), UI Design, Front-end, Low-code Development, Low Code, Redux, Front-end Development, Back-end, Games, Visual Studio, Web 3.0, Google Cloud Platform (GCP), OpenAI GPT-3 API, Software Architecture, Babylon.js, OpenAI GPT-4 API, Image Generation, Next.js, Tailwind CSS, 3D Character Animation, 3D Animation, 3D Art, NoSQL, ChatGPT
-
-### Freelance Full Stack & Game Developer at Toptal (2009 - Present)
-
-* Created a time-tracking web app in React. The back end is served as a REST API service with MongoDB.
-
-* Front End for Speech-to-text Dictation App
-  * Built an MVP in React for a web app with AI powered speech-to-text dictation in the browser and text-highlighting for playback progress. The back end combines a REST API and WebSocket connections, using a performant machine learning model.
-
-* VEN Games (https://ven.games)
-  * Laid the foundation for the VEN Games project, a suite of web-based games akin to platforms like skribbl.io and traditional board games..
-  * Co-developed the games and core Software Development Kit (SDK) within a mono repository architecture.
-  * Authored logic and front-end components in TypeScript and React.
-  * Implemented multiplayer rooms and gameplay functionality using Firebase Realtime Database for live interactions.
-
-* Front-end Developer and 3D Expert for Online Gaming at PVCSDC OOD
-  * Developed an app using React, Recharts, and Three.js: the app visualizes recorded scenes and telemetry data from online races. It provides options and tools for users to inspect and judge incident circumstances.
-  * Tracked and fixed bugs using Sentry and Jira as reporting tools.
-  Used the MUI framework to develop the app's admin dashboard and lists of online races and tournaments according to Figma designs.
-  * Wrote on interpolation logic to fill in missing data on the back-end side (Node.js).
-  * Technologies: React, Three.js, TypeScript, Gatsby, Amazon Web Services (AWS), Jira, Sentry, CSS, WebGL, 3D Animation
-
-* Front End for 3D Visualization of AI-generated Protein Molecules
-  * Developed a single-page web application from scratch, using React to visualize protein molecules in 3D.
-  * Engineered a custom API for backend communication, integrating client's proprietary machine-learning technology for model inference.
-  * Led the conceptualization, design, and implementation of the application leveraging modern build tools and frameworks.
-  * Conducted thorough testing and evaluation of multiple libraries for 3D molecular rendering to select the most suitable one for the project's needs.
-  * Maintained a balance between rapid development and the sustainability of a clean, maintainable codebase in a time-sensitive environment.
-  * Acquired deep insights into protein design and expanded knowledge in the field of bioengineering.
-
-### Front-end Game Developer at OSO INTERACTIVE LLC (2021 - 2022)
-
-* Planned and developed a blockchain game for the client. Utilized EOSIO and AtomicHub's web APIs to communicate with contracts, sign transactions for in-game actions, and verify NFT ownership.
-* Structured and maintained the centralized part of the game's back end using mainly Firebase Firestore. Items requiring frequent updates were retrieved via Airtable's public API.
-* Used Airtable to administrate items we knew would need frequent updates easily, i.e., system messages and special event banners. Game admins can choose how messages are shown via multi-selection, upload images, and manage status via Kanban view.
-* Oversaw a small team of developers working with me for the client. Prioritized and broke down tasks for bi-weekly feature releases.
-* Automated the production and staging release workflow via GitHub Actions.
-* Used PixiJS as a rendering engine for the world and UI. Wrote custom shaders for the in-game map and visual effects for UI interactions. Ensured the rendering of large animated terrain with low-performance costs.
-* Wrote low-level utilities for the common animation, layout needs, and data services.
-* Technologies: PixiJS, JavaScript, TypeScript, Blockchain, EOSIO, Non-fungible Tokens (NFT), Firebase, Firebase Web SDK, GSAP, Airtable, Sentry, Continuous Deployment, Node.js, Game Design, Game Development, Game Tools Development, Git, HTML5, Web, WebGL, Multiplayer, Adobe Photoshop, Webpack, 2D Games, Firebase Authentication, Web Development, Firebase Hosting, Postman, HTML, ECMAScript (ES6), Serverless, CSS, Architecture, Animation, UI Animation, Card Games, Online Games, GUI Animation, GreenSock Animation Platform (GSAP), Webpack 4, D3.js, Data Visualization, Front-end, Ethers.js, Web3.js, Front-end Development, Games, Web 3.0, Software Architecture, Technical Leadership, NoSQL
 
 ### Software Developer at 7Mojos / Casualino LLC (2020 - 2021)
 
-* Joined work on a multi-layered online games project; The front end was developed in TypeScript with a WebGL render engine. The back end was mainly completed in C# and .NET; PostgreSQL is used for all databases.
-* Introduced changes to the build procedure of existing web apps to reduce the final size of scripts and assets and shorten user load-time.
-* Assisted the team in updating the current development flow with modern tools, including Webpack and Terser Minifier.
-* Led the development of games and core SDKs packaged as a single TypeScript monorepo. The front end is rendered with PixiJS 5, a WebGL render engine, and communicates with the back end over custom API.
-* Wrote an automation tool for transforming and combining data between HTML, JSON, YAML, and XLSX (Excel) files.
-* Technologies: .NET, Webpack, Gulp, Node.js, TypeScript, PixiJS, 2D Games, APIs, Howler.js, GSAP, GreenSock Animation Platform (GSAP), Webpack 4, Monorepos, Game Development, Web Development, Casino Games, Slots, JavaScript, Git, HTML5, Web, WebGL, Adobe Photoshop, HTML, ECMAScript (ES6), PostgreSQL, CSS, Architecture, Animation, UI Animation, Online Games, GUI Animation, UI Design, Front-end, Electron, Front-end Development, Games, Visual Studio, Software Architecture, Technical Leadership
+* [Existing Live Casino Games and Slot Games Portfolio](https://7mojos.com/live-games)
+  * Joined work on a multi-layered online games project; The front end was developed in TypeScript with a WebGL render engine. The back end was mainly completed in C# and .NET; PostgreSQL is used for all databases.
+  * Modernized the development workflow with tools like Webpack and Terser Minifier, streamlining  production and deployment.
+  * Assisted the team in updating the current development flow with modern tools, including Webpack and Terser Minifier.
+  * Introduced changes to the build procedure of existing web apps to reduce the final size of scripts and assets and shorten user load-time.
+  * Wrote an automation tool for transforming and combining data between HTML, JSON, YAML, and XLSX (Excel) files.
+
+* [New Slot Games SDK](https://de-lb.svmsrv.com/)
+  - Led the development of a modernized SDK for the next batch of slot games in the company's portfolio, packaged as a TypeScript monorepo.
+  - Utilized PixiJS for front-end rendering, ensuring efficient and visually engaging game experiences.
+   - Established robust communication protocols between front-end and back-end systems through custom APIs.
+  - Pioneered innovative solutions for game development, such as templating systems and sample animations and behaviors, setting a foundation for the smooth development of a vast variety of future slot titles.
+
+* [First slot game with new SDK](https://de-clb.svmsrv.com/?lobbyUrl=https%3A%2F%2Fde-lb.svmsrv.com%2F%3Fs%3Dslots&language=en&play=https%3A%2F%2Fde-cgm.svmsrv.com%2Fslots%2F2%2F%3Fhost%3Dhttps%253A%252F%252Fde-se.svmsrv.com%26gameToken%3Diw%26lobbyUrl%3Dhttps%253A%252F%252Fde-lb.svmsrv.com%252F%253Fs%253Dslots%26language%3Den%26allowDesktopFullscreen%3Dfalse%26allowMobileFullscreen%3Dfalse%26enableRefresh%3Dfalse%26behavior%3D0%26isDemo%3DTrue&gameParams=behavior%3A0%2CallowDesktopFullscreen%3Afalse%2CallowMobileFullscreen%3Afalse%2CenableRefresh%3Afalse)
+  - Spearheaded the creation of the first slot game using the newly developed SDK, showcasing its capabilities.
+  - Focused on delivering a polished and engaging user experience, setting a high standard for subsequent games.
+  - Demonstrated the practical application and effectiveness of the SDK in a real-world gaming environment.
 
 ### Software Developer at Blockchain Solutions (2018 - 2020)
 
@@ -88,7 +109,7 @@ Stefan is an accomplished and flexible developer who can easily switch between v
 
 * Delivered several apps and games for browsers and mobile in collaboration with the team. Handled visuals, gameplay, and front-end to back-end communication protocols and strategies.
 * Devised a complex mobile billiards app for a foreign market. The project involved real-time physics simulation, low-level shader programming, multiplayer logic in C#, in-app purchases, player progression, and live tournaments.
-* Developed the gameplay section of a casual game for both Android and iOS. Aside from trigonometry, mock-physics, and ads integration, specific work was aimed at adding polish and spectacle to what resulted in one of the firm's most visually engaging projects.
+* Developed the gameplay section of a [casual game](https://www.youtube.com/watch?v=4CYq5Y6ryW4&t=11s) for both Android and iOS. Aside from trigonometry, mock-physics, and ads integration, specific work was aimed at adding polish and spectacle to what resulted in one of the firm's most visually engaging projects.
 * Technologies: Java, ActionScript 3, Adobe AIR, Android, Ionic, C#, APIs, Multiplayer, 3D, Flash ActionScript, Node.js, Game Development, Game Tools Development, JavaScript, Git, Web, 2D Games, Slack, Postman, jQuery, MySQL, CSS, Full-stack, Architecture, Dashboards, Animation, UI Animation, Online Games, GUI Animation, UI Design, Front-end, Front-end Development, Back-end, Games, Software Architecture, 3D Animation
 
 ## Personal Projects
