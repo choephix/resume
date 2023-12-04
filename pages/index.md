@@ -33,7 +33,7 @@ Stefan is an accomplished and flexible developer who can easily switch between v
   - Host the client on Firebase Hosting, including preview channels. Firestore used as a general database.
   - Crafted a quick-play style multiplayer backend server in Node.js + Colyseum.js
   - Developed a complex web tool for creating, annotating and tracking the development progress of cards in the game, rendered with React and storing the YAML data in a repository using Github's API
-  - Technologies: _JavaScript, TypeScript, React, HTML5, CSS3, Webpack, Node.js, Firebase, Firestore, AI, Machine Learning, Continuous Integration, Continuous Deployment, Github API, Git, Adobe Photoshop, Stable Diffusion, ControlNet, GPT4, DALLE-3, MidJourney_
+  - Technologies: _JavaScript, TypeScript, React, HTML5, CSS3, Webpack, Node.js, Firebase, Firestore, AI, Machine Learning, Continuous Integration, Continuous Deployment, Github API, Git, Adobe Photoshop, Stable Diffusion, ControlNet, GPT4, DALLE-3, MidJourney, ElevenLabs_
 
 - Prototype Development for a Roguelike Deck Builder Game
   - Engineered a turn-based card game prototype, ala 'Slay The Spire', utilizing PixiJs for dynamic 2D WebGL rendering.
