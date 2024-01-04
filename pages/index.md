@@ -11,7 +11,7 @@ tags: ["software developer", "full stack developer", "web developer", "programme
 
 Stefan is an accomplished software developer with 13 years of experience, specializing in both game development and full stack development. Known for his adaptability and proficiency in diverse technology stacks, his career showcases effective adaptation to various frameworks, tools, and programming languages. With a keen eye for user experience and a strong focus on delivering high-quality products, Stefan ensures that his projects are not only aesthetically pleasing but also performant and functional. He is committed to creating reliable and innovative solutions.
 
-**The most amazing** project I've built is a multi-player game connecting React clients via WebSocket rooms server-side, with a RESTful API for authentication and data persistence.
+<!-- **The most amazing** project I've built is a multi-player game connecting React clients via WebSocket rooms server-side, with a RESTful API for authentication and data persistence. -->
 
 - **Location:** [Varna, Bulgaria](https://www.google.com/maps?q=varna+bulgaria&ved=2ahUKEwj-pJ7A2faCAxUoRvEDHc41DhcQ0pQJegQIDBAB)
 
@@ -40,7 +40,7 @@ Stefan is an accomplished software developer with 13 years of experience, specia
   - Implemented Airtable for efficient data management, facilitating the rapid iteration of card and opponent configurations, as well as tracking the project's progress and ongoing development tasks.
   - Employed Airtable's API for seamless data retrieval client-side.
 
-- Front-end Game Developer (client work for OSO INTERACTIVE LLC)
+- [Front-end Game Developer (client work for OSO INTERACTIVE LLC)](https://youtu.be/si38MfZ27PY)
   - Planned and developed a [blockchain game for the client](https://www.youtube.com/watch?v=Bi5qKXuPOFk). Utilized EOSIO and AtomicHub's web APIs to communicate with contracts, sign transactions for in-game actions, and verify NFT ownership.
   - Structured and maintained the centralized part of the game's back end using mainly Firebase Firestore. Items requiring frequent updates were retrieved via Airtable's public API.
   - Used Airtable to administrate items we knew would need frequent updates easily, i.e., system messages and special event banners. Game admins can choose how messages are shown via multi-selection, upload images, and manage status via Kanban view.
